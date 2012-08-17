@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/fontinfo.jar" sourcepath="war/WEB-INF/lib/sfntly-src.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/sfntly.jar" sourcepath="war/WEB-INF/lib/sfntly-src.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/icu4j-4_8_1_1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/icu4j-charset-4_8_1_1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/eotconverter.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/woffconverter.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/subsetter.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
